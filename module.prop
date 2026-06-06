@@ -1,0 +1,7 @@
+id=logo_cheremsha
+name=Cheremsha Logo for Sweet
+version=v1.4
+versionCode=4
+author=Jasurios
+description=Replaces boot logo partition with custom one. Backs up original on install, restores on remove. For redmi note 10 pro (Sweet)
+banner=banner.png
